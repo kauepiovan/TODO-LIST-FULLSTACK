@@ -5,4 +5,5 @@ Aplicação WEB de um TODO-List (Lista de tarefas), onde realiza a criação, re
 ## STACK UTILIZADA:
 Node.js | Javascript | HTML | CSS | Docker | MySQL | Insomnia
 
+## Imagem do Layout
 ![todolist_img](https://github.com/kauepiovan/todo-list-fullstack/assets/110105007/f3bb1483-792b-40ae-b106-7f6d27d5d038)
